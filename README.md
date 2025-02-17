@@ -1,5 +1,1 @@
-This project is about my PhD training in perth
-
-R version used was........
-
-The folders contains .............
+# vector-atlas-training
